@@ -1,5 +1,7 @@
 # min, max => rand(min, max)
 
+
+# это мои тестовые изменения в тестовой ветке
 while true
   puts 'Введите нижнюю границу:'
   min = gets.to_i # '123'.to_i
