@@ -1,9 +1,9 @@
 # min, max => rand(min, max)
 
 while true
-  puts 'Введите нижнюю границу'
+  puts 'Введите нижнюю границу:'
   min = gets.to_i # '123'.to_i
-  puts 'Введите верхнюю границу'
+  puts 'Введите верхнюю границу:'
   max = gets.to_i
 
   if min > max
